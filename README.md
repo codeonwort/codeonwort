@@ -12,7 +12,7 @@ OpenGL real-time rendering
 
 DirectX 12 real-time rendering
 
-<img src="https://user-images.githubusercontent.com/11644393/201951222-44803f65-1d79-4691-bbe2-04a782dc515c.jpg" width="50%" /><img src="https://user-images.githubusercontent.com/11644393/206861711-c567e232-33e2-49b0-b842-20de9af9bb79.jpg" width="50%" />
+<img src="https://user-images.githubusercontent.com/11644393/201951222-44803f65-1d79-4691-bbe2-04a782dc515c.jpg" width="50%" /><img src="https://user-images.githubusercontent.com/11644393/211977004-d3ec684f-cc0c-4958-b378-a961caedfd8c.jpg" width="50%" />
 
 <!--
 **codeonwort/codeonwort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
