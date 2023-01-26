@@ -6,7 +6,7 @@ Here's some images rendered using my toy projects. You can see more in my [githu
 
 **Software raytracer**
 
-<img src="https://user-images.githubusercontent.com/11644393/208349151-14f24188-2060-438b-909e-81166821236d.jpg" width="50%" /><img src="https://user-images.githubusercontent.com/11644393/208139547-f662edf3-52a7-420f-9c68-85c975c22fda.jpg" width="50%" />
+<img src="https://user-images.githubusercontent.com/11644393/214966860-0871ca68-8469-4ae1-a36f-61c1048014f7.jpg" width="50%" /><img src="https://user-images.githubusercontent.com/11644393/208139547-f662edf3-52a7-420f-9c68-85c975c22fda.jpg" width="50%" />
 
 **OpenGL real-time rendering**
 
