@@ -10,7 +10,7 @@ Here's some images rendered using my toy projects. You can see more in my [githu
 
 **OpenGL real-time rendering**
 
-<img src="https://user-images.githubusercontent.com/11644393/199586888-a70163b2-5b7e-4dbc-b050-c0da462ca27a.jpg" width="50%" /><img src="https://user-images.githubusercontent.com/11644393/199479551-c4d0a6f8-e705-4570-9b7d-c2a43f785b74.jpg" width="50%" />
+<img src="https://user-images.githubusercontent.com/11644393/199586888-a70163b2-5b7e-4dbc-b050-c0da462ca27a.jpg" width="33%" /><img src="https://user-images.githubusercontent.com/11644393/199479551-c4d0a6f8-e705-4570-9b7d-c2a43f785b74.jpg" width="33%" /><img src="https://user-images.githubusercontent.com/11644393/238012342-56108b01-5fc5-4f8a-8263-a1a538d95417.jpg" width="33%" />
 
 **DirectX 12 real-time rendering and raytracer**
 
